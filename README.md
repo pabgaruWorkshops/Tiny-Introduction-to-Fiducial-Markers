@@ -2,6 +2,10 @@
 
 Welcome to the project repository on exploring fiducial markers, specifically using Aruco markers. This project aims to provide an introductory guide to fiducial markers and their applications in computer vision using OpenCV and Ovis. It is designed for those who are interested in learning how to detect, estimate poses, and utilize fiducial markers for augmented reality applications.
 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
